@@ -1,0 +1,49 @@
+#linija{
+	background-color: gray;
+	padding: 30px;
+	text-align: center;
+
+
+
+}
+#abt{
+	font-family: "Comic sans MS";
+	font-size: 300;
+	color: white;
+	border-right: 1px solid white;
+	padding: 20px;
+	text-decoration: none;
+}
+#abt1{
+	font-family: "Comic sans MS";
+	font-size: 300;
+	color: white;
+	padding: 20px;
+	text-decoration: none;
+
+}
+
+
+}
+#ts{
+	width: 20%;
+}
+#text{
+	text-decoration: none;
+	padding: 20px;
+	padding-left: 50px;
+	font-family: "Comic sans MS";
+	font-size: 300;
+	color: white;
+	width: 70%;
+	text-align: center;
+	margin-left: 13%;
+}
+
+body{
+	background-color: black;
+}
+#naum{
+	margin-left: 40%;
+
+}
